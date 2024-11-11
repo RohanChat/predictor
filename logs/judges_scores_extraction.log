@@ -1,0 +1,881 @@
+2024-10-16 09:18:41,619 - INFO - CSV file loaded successfully.
+2024-10-16 09:18:41,976 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-16 09:18:41,976 - INFO - NumExpr defaulting to 8 threads.
+2024-10-16 09:18:44,954 - INFO - Number of relevant rows to process: 2960
+2024-10-16 09:18:44,955 - INFO - Added new column: Round_1_Judge1
+2024-10-16 09:18:44,955 - INFO - Added new column: Round_1_Judge2
+2024-10-16 09:18:44,956 - INFO - Added new column: Round_1_Judge3
+2024-10-16 09:18:44,956 - INFO - Added new column: Round_2_Judge1
+2024-10-16 09:18:44,956 - INFO - Added new column: Round_2_Judge2
+2024-10-16 09:18:44,957 - INFO - Added new column: Round_2_Judge3
+2024-10-16 09:18:44,957 - INFO - Added new column: Round_3_Judge1
+2024-10-16 09:18:44,958 - INFO - Added new column: Round_3_Judge2
+2024-10-16 09:18:44,958 - INFO - Added new column: Round_3_Judge3
+2024-10-16 09:18:44,959 - INFO - Added new column: Round_4_Judge1
+2024-10-16 09:18:44,959 - INFO - Added new column: Round_4_Judge2
+2024-10-16 09:18:44,959 - INFO - Added new column: Round_4_Judge3
+2024-10-16 09:18:44,960 - INFO - Added new column: Round_5_Judge1
+2024-10-16 09:18:44,960 - INFO - Added new column: Round_5_Judge2
+2024-10-16 09:18:44,961 - INFO - Added new column: Round_5_Judge3
+2024-10-16 09:18:45,046 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1995/
+2024-10-16 09:18:45,047 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1995/
+2024-10-16 09:18:45,488 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:45,489 - WARNING - No matching fight found for fighter Dan Severn
+2024-10-16 09:18:45,489 - WARNING - Fight URL not found for row index 121.
+2024-10-16 09:18:45,491 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1995/
+2024-10-16 09:18:45,491 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1995/
+2024-10-16 09:18:45,928 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:45,928 - WARNING - No matching fight found for fighter Oleg Taktarov
+2024-10-16 09:18:45,928 - WARNING - Fight URL not found for row index 123.
+2024-10-16 09:18:45,929 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1995/
+2024-10-16 09:18:45,930 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1995/
+2024-10-16 09:18:46,367 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:46,368 - WARNING - No matching fight found for fighter Dan Severn
+2024-10-16 09:18:46,368 - WARNING - Fight URL not found for row index 125.
+2024-10-16 09:18:46,369 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1996/
+2024-10-16 09:18:46,369 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1996/
+2024-10-16 09:18:46,806 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:46,806 - WARNING - No matching fight found for fighter Paul Varelans
+2024-10-16 09:18:46,807 - WARNING - Fight URL not found for row index 129.
+2024-10-16 09:18:46,808 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1996/
+2024-10-16 09:18:46,808 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1996/
+2024-10-16 09:18:47,242 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:47,252 - WARNING - No matching fight found for fighter Dan Severn
+2024-10-16 09:18:47,253 - WARNING - Fight URL not found for row index 155.
+2024-10-16 09:18:47,254 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1996/
+2024-10-16 09:18:47,254 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1996/
+2024-10-16 09:18:47,686 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:47,687 - WARNING - No matching fight found for fighter Jerry Bohlander
+2024-10-16 09:18:47,687 - WARNING - Fight URL not found for row index 179.
+2024-10-16 09:18:47,688 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1996/
+2024-10-16 09:18:47,688 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1996/
+2024-10-16 09:18:48,123 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:48,123 - WARNING - No matching fight found for fighter Scott Ferrozzo
+2024-10-16 09:18:48,123 - WARNING - Fight URL not found for row index 183.
+2024-10-16 09:18:48,125 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:48,125 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:48,562 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:48,563 - WARNING - No matching fight found for fighter Yoshiki Takahashi
+2024-10-16 09:18:48,563 - WARNING - Fight URL not found for row index 201.
+2024-10-16 09:18:48,564 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:48,564 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:49,003 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:49,004 - WARNING - No matching fight found for fighter Guy Mezger
+2024-10-16 09:18:49,004 - WARNING - Fight URL not found for row index 217.
+2024-10-16 09:18:49,005 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:49,005 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:49,438 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:49,438 - WARNING - No matching fight found for fighter Joe Moreira
+2024-10-16 09:18:49,438 - WARNING - Fight URL not found for row index 235.
+2024-10-16 09:18:49,439 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:49,439 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:49,866 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:49,866 - WARNING - No matching fight found for fighter Maurice Smith
+2024-10-16 09:18:49,866 - WARNING - Fight URL not found for row index 247.
+2024-10-16 09:18:49,867 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:49,867 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:50,294 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:50,295 - WARNING - No matching fight found for fighter Alex Hunter
+2024-10-16 09:18:50,295 - WARNING - Fight URL not found for row index 249.
+2024-10-16 09:18:50,296 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:50,296 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:50,730 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:50,731 - WARNING - No matching fight found for fighter Dave Beneteau
+2024-10-16 09:18:50,731 - WARNING - Fight URL not found for row index 255.
+2024-10-16 09:18:50,732 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:50,732 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1997/
+2024-10-16 09:18:51,168 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:51,168 - WARNING - No matching fight found for fighter David Abbott
+2024-10-16 09:18:51,168 - WARNING - Fight URL not found for row index 265.
+2024-10-16 09:18:51,170 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:51,170 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:51,605 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:51,606 - WARNING - No matching fight found for fighter Pat Miletich
+2024-10-16 09:18:51,606 - WARNING - Fight URL not found for row index 279.
+2024-10-16 09:18:51,607 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:51,607 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:52,046 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:52,047 - WARNING - No matching fight found for fighter Tsuyoshi Kohsaka
+2024-10-16 09:18:52,047 - WARNING - Fight URL not found for row index 285.
+2024-10-16 09:18:52,048 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:52,048 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:52,491 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:52,491 - WARNING - No matching fight found for fighter Chuck Liddell
+2024-10-16 09:18:52,491 - WARNING - Fight URL not found for row index 289.
+2024-10-16 09:18:52,492 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:52,492 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:52,937 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:52,938 - WARNING - No matching fight found for fighter Dan Henderson
+2024-10-16 09:18:52,938 - WARNING - Fight URL not found for row index 291.
+2024-10-16 09:18:52,939 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:52,939 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:53,391 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:53,392 - WARNING - No matching fight found for fighter Dan Henderson
+2024-10-16 09:18:53,392 - WARNING - Fight URL not found for row index 299.
+2024-10-16 09:18:53,393 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:53,393 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:53,824 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:53,825 - WARNING - No matching fight found for fighter Tsuyoshi Kohsaka
+2024-10-16 09:18:53,825 - WARNING - Fight URL not found for row index 309.
+2024-10-16 09:18:53,826 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:53,826 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1998/
+2024-10-16 09:18:54,256 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:54,257 - WARNING - No matching fight found for fighter Pat Miletich
+2024-10-16 09:18:54,257 - WARNING - Fight URL not found for row index 311.
+2024-10-16 09:18:54,258 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:54,258 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:54,682 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:54,683 - WARNING - No matching fight found for fighter Mikey Burnett
+2024-10-16 09:18:54,683 - WARNING - Fight URL not found for row index 323.
+2024-10-16 09:18:54,684 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:54,684 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:55,117 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:55,117 - WARNING - No matching fight found for fighter Pedro Rizzo
+2024-10-16 09:18:55,118 - WARNING - Fight URL not found for row index 327.
+2024-10-16 09:18:55,119 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:55,119 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:55,552 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:55,553 - WARNING - No matching fight found for fighter Pat Miletich
+2024-10-16 09:18:55,553 - WARNING - Fight URL not found for row index 329.
+2024-10-16 09:18:55,554 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:55,554 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:55,981 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:55,981 - WARNING - No matching fight found for fighter Kevin Randleman
+2024-10-16 09:18:55,981 - WARNING - Fight URL not found for row index 339.
+2024-10-16 09:18:55,982 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:55,983 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:56,416 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:56,417 - WARNING - No matching fight found for fighter Bas Rutten
+2024-10-16 09:18:56,417 - WARNING - Fight URL not found for row index 359.
+2024-10-16 09:18:56,418 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:56,418 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:56,841 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:56,842 - WARNING - No matching fight found for fighter Travis Fulton
+2024-10-16 09:18:56,842 - WARNING - Fight URL not found for row index 361.
+2024-10-16 09:18:56,843 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:56,843 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:57,270 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:57,283 - WARNING - No matching fight found for fighter Matt Hughes
+2024-10-16 09:18:57,283 - WARNING - Fight URL not found for row index 381.
+2024-10-16 09:18:57,284 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:57,284 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:57,715 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:57,716 - WARNING - No matching fight found for fighter Kenichi Yamamoto
+2024-10-16 09:18:57,716 - WARNING - Fight URL not found for row index 395.
+2024-10-16 09:18:57,717 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:57,718 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/1999/
+2024-10-16 09:18:58,148 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:58,148 - WARNING - No matching fight found for fighter Kevin Randleman
+2024-10-16 09:18:58,149 - WARNING - Fight URL not found for row index 405.
+2024-10-16 09:18:58,150 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:18:58,150 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:18:58,582 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:58,583 - WARNING - No matching fight found for fighter Shonie Carter
+2024-10-16 09:18:58,583 - WARNING - Fight URL not found for row index 407.
+2024-10-16 09:18:58,584 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:18:58,584 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:18:59,017 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:59,018 - WARNING - No matching fight found for fighter Dave Menne
+2024-10-16 09:18:59,018 - WARNING - Fight URL not found for row index 415.
+2024-10-16 09:18:59,019 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:18:59,019 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:18:59,451 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:59,452 - WARNING - No matching fight found for fighter Ron Waterman
+2024-10-16 09:18:59,452 - WARNING - Fight URL not found for row index 425.
+2024-10-16 09:18:59,453 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:18:59,453 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:18:59,885 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:18:59,886 - WARNING - No matching fight found for fighter Tito Ortiz
+2024-10-16 09:18:59,886 - WARNING - Fight URL not found for row index 431.
+2024-10-16 09:18:59,887 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:18:59,887 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:00,318 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:00,319 - WARNING - No matching fight found for fighter Shonie Carter
+2024-10-16 09:19:00,319 - WARNING - Fight URL not found for row index 433.
+2024-10-16 09:19:00,320 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:00,320 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:00,751 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:00,752 - WARNING - No matching fight found for fighter Jens Pulver
+2024-10-16 09:19:00,752 - WARNING - Fight URL not found for row index 437.
+2024-10-16 09:19:00,753 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:00,753 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:01,187 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:01,188 - WARNING - No matching fight found for fighter Tyrone Roberts
+2024-10-16 09:19:01,188 - WARNING - Fight URL not found for row index 445.
+2024-10-16 09:19:01,189 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:01,189 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:01,633 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:01,633 - WARNING - No matching fight found for fighter Kevin Randleman
+2024-10-16 09:19:01,633 - WARNING - Fight URL not found for row index 447.
+2024-10-16 09:19:01,635 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:01,635 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:02,067 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:02,068 - WARNING - No matching fight found for fighter Jeff Monson
+2024-10-16 09:19:02,068 - WARNING - Fight URL not found for row index 451.
+2024-10-16 09:19:02,069 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:02,069 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:02,504 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:02,504 - WARNING - No matching fight found for fighter Ian Freeman
+2024-10-16 09:19:02,504 - WARNING - Fight URL not found for row index 453.
+2024-10-16 09:19:02,505 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:02,505 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:02,942 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:02,942 - WARNING - No matching fight found for fighter Maurice Smith
+2024-10-16 09:19:02,942 - WARNING - Fight URL not found for row index 461.
+2024-10-16 09:19:02,943 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:02,943 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:03,371 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:03,371 - WARNING - No matching fight found for fighter Ben Earwood
+2024-10-16 09:19:03,371 - WARNING - Fight URL not found for row index 465.
+2024-10-16 09:19:03,372 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:03,372 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:03,815 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:03,815 - WARNING - No matching fight found for fighter Mark Hughes
+2024-10-16 09:19:03,815 - WARNING - Fight URL not found for row index 467.
+2024-10-16 09:19:03,817 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:03,817 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2000/
+2024-10-16 09:19:04,251 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:04,251 - WARNING - No matching fight found for fighter Chuck Liddell
+2024-10-16 09:19:04,251 - WARNING - Fight URL not found for row index 479.
+2024-10-16 09:19:04,253 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:04,253 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:04,685 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:04,686 - WARNING - No matching fight found for fighter Phil Baroni
+2024-10-16 09:19:04,686 - WARNING - Fight URL not found for row index 495.
+2024-10-16 09:19:04,687 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:04,687 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:05,124 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:05,125 - WARNING - No matching fight found for fighter Jens Pulver
+2024-10-16 09:19:05,125 - WARNING - Fight URL not found for row index 505.
+2024-10-16 09:19:05,126 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:05,126 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:05,555 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:05,556 - WARNING - No matching fight found for fighter Tony DeSouza
+2024-10-16 09:19:05,556 - WARNING - Fight URL not found for row index 509.
+2024-10-16 09:19:05,557 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:05,557 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:05,993 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:05,993 - WARNING - No matching fight found for fighter Randy Couture
+2024-10-16 09:19:05,993 - WARNING - Fight URL not found for row index 523.
+2024-10-16 09:19:05,995 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:05,995 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:06,429 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:06,430 - WARNING - No matching fight found for fighter Vladimir Matyushenko
+2024-10-16 09:19:06,430 - WARNING - Fight URL not found for row index 529.
+2024-10-16 09:19:06,431 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:06,431 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:06,861 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:06,862 - WARNING - No matching fight found for fighter Din Thomas
+2024-10-16 09:19:06,862 - WARNING - Fight URL not found for row index 541.
+2024-10-16 09:19:06,863 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:06,863 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:07,295 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:07,295 - WARNING - No matching fight found for fighter Dave Menne
+2024-10-16 09:19:07,295 - WARNING - Fight URL not found for row index 547.
+2024-10-16 09:19:07,296 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:07,296 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:07,727 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:07,727 - WARNING - No matching fight found for fighter Chuck Liddell
+2024-10-16 09:19:07,727 - WARNING - Fight URL not found for row index 551.
+2024-10-16 09:19:07,728 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:07,728 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:08,162 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:08,164 - WARNING - No matching fight found for fighter Jens Pulver
+2024-10-16 09:19:08,164 - WARNING - Fight URL not found for row index 553.
+2024-10-16 09:19:08,165 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:08,165 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2001/
+2024-10-16 09:19:08,584 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:08,585 - WARNING - No matching fight found for fighter Tito Ortiz
+2024-10-16 09:19:08,585 - WARNING - Fight URL not found for row index 555.
+2024-10-16 09:19:08,586 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:08,586 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:09,126 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:09,126 - WARNING - No matching fight found for fighter Gil Castillo
+2024-10-16 09:19:09,126 - WARNING - Fight URL not found for row index 575.
+2024-10-16 09:19:09,127 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:09,127 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:09,558 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:09,558 - WARNING - No matching fight found for fighter Kevin Randleman
+2024-10-16 09:19:09,558 - WARNING - Fight URL not found for row index 577.
+2024-10-16 09:19:09,560 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:09,560 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:09,984 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:09,984 - WARNING - No matching fight found for fighter Chuck Liddell
+2024-10-16 09:19:09,984 - WARNING - Fight URL not found for row index 581.
+2024-10-16 09:19:09,986 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:09,986 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:10,420 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:10,421 - WARNING - No matching fight found for fighter Sean Sherk
+2024-10-16 09:19:10,421 - WARNING - Fight URL not found for row index 589.
+2024-10-16 09:19:10,422 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:10,422 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:10,851 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:10,851 - WARNING - No matching fight found for fighter Robbie Lawler
+2024-10-16 09:19:10,851 - WARNING - Fight URL not found for row index 605.
+2024-10-16 09:19:10,852 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:10,852 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:11,281 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:11,282 - WARNING - No matching fight found for fighter Caol Uno
+2024-10-16 09:19:11,282 - WARNING - Fight URL not found for row index 611.
+2024-10-16 09:19:11,284 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:11,284 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:11,719 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:11,720 - WARNING - No matching fight found for fighter Benji Radach
+2024-10-16 09:19:11,720 - WARNING - Fight URL not found for row index 629.
+2024-10-16 09:19:11,721 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:11,721 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:12,145 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:12,145 - WARNING - No matching fight found for fighter Chuck Liddell
+2024-10-16 09:19:12,145 - WARNING - Fight URL not found for row index 631.
+2024-10-16 09:19:12,146 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:12,146 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:12,572 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:12,572 - WARNING - No matching fight found for fighter Evan Tanner
+2024-10-16 09:19:12,572 - WARNING - Fight URL not found for row index 633.
+2024-10-16 09:19:12,573 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:12,574 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:13,008 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:13,008 - WARNING - No matching fight found for fighter Renato Sobral
+2024-10-16 09:19:13,008 - WARNING - Fight URL not found for row index 635.
+2024-10-16 09:19:13,009 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:13,009 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:13,436 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:13,436 - WARNING - No matching fight found for fighter Phillip Miller
+2024-10-16 09:19:13,436 - WARNING - Fight URL not found for row index 637.
+2024-10-16 09:19:13,437 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:13,437 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:13,880 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:13,880 - WARNING - No matching fight found for fighter Matt Lindland
+2024-10-16 09:19:13,880 - WARNING - Fight URL not found for row index 649.
+2024-10-16 09:19:13,881 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:13,881 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:14,309 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:14,310 - WARNING - No matching fight found for fighter Caol Uno
+2024-10-16 09:19:14,310 - WARNING - Fight URL not found for row index 655.
+2024-10-16 09:19:14,311 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:14,311 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2002/
+2024-10-16 09:19:14,743 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:14,743 - WARNING - No matching fight found for fighter BJ Penn
+2024-10-16 09:19:14,744 - WARNING - Fight URL not found for row index 657.
+2024-10-16 09:19:14,744 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:14,745 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:15,172 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:15,173 - WARNING - No matching fight found for fighter Din Thomas
+2024-10-16 09:19:15,173 - WARNING - Fight URL not found for row index 683.
+2024-10-16 09:19:15,174 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:15,174 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:15,607 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:15,607 - WARNING - No matching fight found for fighter Vladimir Matyushenko
+2024-10-16 09:19:15,607 - WARNING - Fight URL not found for row index 685.
+2024-10-16 09:19:15,608 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:15,608 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:16,049 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:16,049 - WARNING - No matching fight found for fighter Matt Lindland
+2024-10-16 09:19:16,049 - WARNING - Fight URL not found for row index 687.
+2024-10-16 09:19:16,051 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:16,051 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:16,474 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:16,474 - WARNING - No matching fight found for fighter Hermes Franca
+2024-10-16 09:19:16,475 - WARNING - Fight URL not found for row index 697.
+2024-10-16 09:19:16,476 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:16,476 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:16,898 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:16,899 - WARNING - No matching fight found for fighter Duane Ludwig
+2024-10-16 09:19:16,899 - WARNING - Fight URL not found for row index 699.
+2024-10-16 09:19:16,900 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:16,900 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:17,331 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:17,331 - WARNING - No matching fight found for fighter Dave Strasser
+2024-10-16 09:19:17,331 - WARNING - Fight URL not found for row index 705.
+2024-10-16 09:19:17,333 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:17,333 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:17,759 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:17,760 - WARNING - No matching fight found for fighter Matt Hughes
+2024-10-16 09:19:17,760 - WARNING - Fight URL not found for row index 709.
+2024-10-16 09:19:17,761 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:17,761 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:18,187 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:18,187 - WARNING - No matching fight found for fighter Yves Edwards
+2024-10-16 09:19:18,187 - WARNING - Fight URL not found for row index 715.
+2024-10-16 09:19:18,189 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:18,189 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:18,659 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:18,660 - WARNING - No matching fight found for fighter Jorge Rivera
+2024-10-16 09:19:18,660 - WARNING - Fight URL not found for row index 737.
+2024-10-16 09:19:18,661 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:18,661 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:19,090 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:19,091 - WARNING - No matching fight found for fighter Randy Couture
+2024-10-16 09:19:19,091 - WARNING - Fight URL not found for row index 743.
+2024-10-16 09:19:19,092 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:19,092 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:19,518 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:19,527 - WARNING - No matching fight found for fighter Pedro Rizzo
+2024-10-16 09:19:19,527 - WARNING - Fight URL not found for row index 749.
+2024-10-16 09:19:19,529 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:19,529 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2003/
+2024-10-16 09:19:19,960 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:19,960 - WARNING - No matching fight found for fighter Robbie Lawler
+2024-10-16 09:19:19,961 - WARNING - Fight URL not found for row index 751.
+2024-10-16 09:19:19,962 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:19,962 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:20,406 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:20,407 - WARNING - No matching fight found for fighter Matt Serra
+2024-10-16 09:19:20,407 - WARNING - Fight URL not found for row index 761.
+2024-10-16 09:19:20,408 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:20,408 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:20,833 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:20,833 - WARNING - No matching fight found for fighter Georges St-Pierre
+2024-10-16 09:19:20,833 - WARNING - Fight URL not found for row index 765.
+2024-10-16 09:19:20,834 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:20,834 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:21,261 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:21,262 - WARNING - No matching fight found for fighter Renato Verissimo
+2024-10-16 09:19:21,262 - WARNING - Fight URL not found for row index 773.
+2024-10-16 09:19:21,263 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:21,263 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:21,690 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:21,691 - WARNING - No matching fight found for fighter Yves Edwards
+2024-10-16 09:19:21,691 - WARNING - Fight URL not found for row index 787.
+2024-10-16 09:19:21,692 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:21,692 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:22,133 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:22,133 - WARNING - No matching fight found for fighter Matt Serra
+2024-10-16 09:19:22,133 - WARNING - Fight URL not found for row index 797.
+2024-10-16 09:19:22,134 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:22,135 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:22,554 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:22,555 - WARNING - No matching fight found for fighter Evan Tanner
+2024-10-16 09:19:22,555 - WARNING - Fight URL not found for row index 799.
+2024-10-16 09:19:22,556 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:22,556 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:22,992 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:22,993 - WARNING - No matching fight found for fighter Matt Hughes
+2024-10-16 09:19:22,993 - WARNING - Fight URL not found for row index 801.
+2024-10-16 09:19:22,994 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:22,994 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:23,421 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:23,422 - WARNING - No matching fight found for fighter Karo Parisyan
+2024-10-16 09:19:23,422 - WARNING - Fight URL not found for row index 811.
+2024-10-16 09:19:23,423 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:23,423 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2004/
+2024-10-16 09:19:23,853 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:23,853 - WARNING - No matching fight found for fighter Tito Ortiz
+2024-10-16 09:19:23,853 - WARNING - Fight URL not found for row index 837.
+2024-10-16 09:19:23,854 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:23,854 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:24,279 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:24,280 - WARNING - No matching fight found for fighter Karo Parisyan
+2024-10-16 09:19:24,280 - WARNING - Fight URL not found for row index 841.
+2024-10-16 09:19:24,281 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:24,281 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:24,707 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:24,707 - WARNING - No matching fight found for fighter Tito Ortiz
+2024-10-16 09:19:24,708 - WARNING - Fight URL not found for row index 855.
+2024-10-16 09:19:24,709 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:24,709 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:25,142 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:25,176 - WARNING - No matching fight found for fighter Sam Hoger
+2024-10-16 09:19:25,177 - WARNING - Fight URL not found for row index 867.
+2024-10-16 09:19:25,177 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:25,178 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:25,602 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:25,602 - WARNING - No matching fight found for fighter Forrest Griffin
+2024-10-16 09:19:25,602 - WARNING - Fight URL not found for row index 871.
+2024-10-16 09:19:25,603 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:25,604 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:26,066 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:26,067 - WARNING - No matching fight found for fighter Mike van Arsdale
+2024-10-16 09:19:26,067 - WARNING - Fight URL not found for row index 875.
+2024-10-16 09:19:26,069 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:26,069 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:26,506 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:26,506 - WARNING - No matching fight found for fighter Georges St-Pierre
+2024-10-16 09:19:26,506 - WARNING - Fight URL not found for row index 881.
+2024-10-16 09:19:26,507 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:26,507 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:26,937 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:26,937 - WARNING - No matching fight found for fighter Karo Parisyan
+2024-10-16 09:19:26,937 - WARNING - Fight URL not found for row index 903.
+2024-10-16 09:19:26,938 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:26,938 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:27,372 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:27,372 - WARNING - No matching fight found for fighter Stephan Bonnar
+2024-10-16 09:19:27,373 - WARNING - Fight URL not found for row index 917.
+2024-10-16 09:19:27,374 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:27,374 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:27,807 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:27,807 - WARNING - No matching fight found for fighter Chris Leben
+2024-10-16 09:19:27,807 - WARNING - Fight URL not found for row index 919.
+2024-10-16 09:19:27,808 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:27,809 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:28,244 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:28,245 - WARNING - No matching fight found for fighter Nate Marquardt
+2024-10-16 09:19:28,245 - WARNING - Fight URL not found for row index 921.
+2024-10-16 09:19:28,246 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:28,246 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:28,680 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:28,681 - WARNING - No matching fight found for fighter Trevor Prangley
+2024-10-16 09:19:28,681 - WARNING - Fight URL not found for row index 925.
+2024-10-16 09:19:28,682 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:28,682 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:29,117 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:29,118 - WARNING - No matching fight found for fighter Matt Lindland
+2024-10-16 09:19:29,118 - WARNING - Fight URL not found for row index 927.
+2024-10-16 09:19:29,119 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:29,120 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:29,556 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:29,575 - WARNING - No matching fight found for fighter Jon Fitch
+2024-10-16 09:19:29,575 - WARNING - Fight URL not found for row index 941.
+2024-10-16 09:19:29,576 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:29,577 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:30,007 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:30,008 - WARNING - No matching fight found for fighter Jorge Rivera
+2024-10-16 09:19:30,008 - WARNING - Fight URL not found for row index 957.
+2024-10-16 09:19:30,009 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:30,009 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:30,446 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:30,446 - WARNING - No matching fight found for fighter Joe Stevenson
+2024-10-16 09:19:30,446 - WARNING - Fight URL not found for row index 977.
+2024-10-16 09:19:30,447 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:30,447 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:30,880 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:30,881 - WARNING - No matching fight found for fighter Rashad Evans
+2024-10-16 09:19:30,881 - WARNING - Fight URL not found for row index 979.
+2024-10-16 09:19:30,882 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:30,882 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:31,312 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:31,312 - WARNING - No matching fight found for fighter Diego Sanchez
+2024-10-16 09:19:31,313 - WARNING - Fight URL not found for row index 981.
+2024-10-16 09:19:31,314 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:31,314 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:31,792 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:31,793 - WARNING - No matching fight found for fighter Nick Thompson
+2024-10-16 09:19:31,793 - WARNING - Fight URL not found for row index 983.
+2024-10-16 09:19:31,794 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:31,794 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2005/
+2024-10-16 09:19:32,228 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:32,228 - WARNING - No matching fight found for fighter Jeremy Horn
+2024-10-16 09:19:32,229 - WARNING - Fight URL not found for row index 989.
+2024-10-16 09:19:32,229 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:32,230 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:32,665 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:32,665 - WARNING - No matching fight found for fighter Tim Sylvia
+2024-10-16 09:19:32,665 - WARNING - Fight URL not found for row index 1013.
+2024-10-16 09:19:32,666 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:32,666 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:33,109 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:33,110 - WARNING - No matching fight found for fighter Keith Jardine
+2024-10-16 09:19:33,112 - WARNING - Fight URL not found for row index 1015.
+2024-10-16 09:19:33,113 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:33,113 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:33,551 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:33,552 - WARNING - No matching fight found for fighter Alessio Sakara
+2024-10-16 09:19:33,552 - WARNING - Fight URL not found for row index 1021.
+2024-10-16 09:19:33,553 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:33,553 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:33,990 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:33,990 - WARNING - No matching fight found for fighter Joe Riggs
+2024-10-16 09:19:33,990 - WARNING - Fight URL not found for row index 1023.
+2024-10-16 09:19:33,992 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:33,992 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:34,427 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:34,428 - WARNING - No matching fight found for fighter Sam Stout
+2024-10-16 09:19:34,428 - WARNING - Fight URL not found for row index 1037.
+2024-10-16 09:19:34,429 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:34,429 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:34,877 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:34,878 - WARNING - No matching fight found for fighter Nate Marquardt
+2024-10-16 09:19:34,878 - WARNING - Fight URL not found for row index 1041.
+2024-10-16 09:19:34,879 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:34,879 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:35,320 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:35,321 - WARNING - No matching fight found for fighter Georges St-Pierre
+2024-10-16 09:19:35,321 - WARNING - Fight URL not found for row index 1043.
+2024-10-16 09:19:35,322 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:35,322 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:35,752 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:35,752 - WARNING - No matching fight found for fighter Rich Franklin
+2024-10-16 09:19:35,752 - WARNING - Fight URL not found for row index 1047.
+2024-10-16 09:19:35,753 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:35,754 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:36,193 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:36,194 - WARNING - No matching fight found for fighter Chael Sonnen
+2024-10-16 09:19:36,194 - WARNING - Fight URL not found for row index 1049.
+2024-10-16 09:19:36,195 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:36,195 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:36,643 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:36,644 - WARNING - No matching fight found for fighter Luke Cummo
+2024-10-16 09:19:36,644 - WARNING - Fight URL not found for row index 1057.
+2024-10-16 09:19:36,645 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:36,645 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:37,080 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:37,081 - WARNING - No matching fight found for fighter Chris Leben
+2024-10-16 09:19:37,081 - WARNING - Fight URL not found for row index 1059.
+2024-10-16 09:19:37,082 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:37,082 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:37,514 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:37,514 - WARNING - No matching fight found for fighter Josh Neer
+2024-10-16 09:19:37,515 - WARNING - Fight URL not found for row index 1061.
+2024-10-16 09:19:37,516 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:37,516 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:37,955 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:37,955 - WARNING - No matching fight found for fighter Rashad Evans
+2024-10-16 09:19:37,955 - WARNING - Fight URL not found for row index 1063.
+2024-10-16 09:19:37,957 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:37,957 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:38,405 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:38,406 - WARNING - No matching fight found for fighter Stephan Bonnar
+2024-10-16 09:19:38,406 - WARNING - Fight URL not found for row index 1065.
+2024-10-16 09:19:38,407 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:38,407 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:38,840 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:38,840 - WARNING - No matching fight found for fighter Jeff Monson
+2024-10-16 09:19:38,840 - WARNING - Fight URL not found for row index 1075.
+2024-10-16 09:19:38,841 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:38,842 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:39,290 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:39,291 - WARNING - No matching fight found for fighter Tito Ortiz
+2024-10-16 09:19:39,291 - WARNING - Fight URL not found for row index 1079.
+2024-10-16 09:19:39,292 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:39,292 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:39,726 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:39,726 - WARNING - No matching fight found for fighter Sean Sherk
+2024-10-16 09:19:39,726 - WARNING - Fight URL not found for row index 1081.
+2024-10-16 09:19:39,727 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:39,728 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:40,167 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:40,167 - WARNING - No matching fight found for fighter Diego Sanchez
+2024-10-16 09:19:40,167 - WARNING - Fight URL not found for row index 1097.
+2024-10-16 09:19:40,168 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:40,168 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:40,603 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:40,603 - WARNING - No matching fight found for fighter Keith Jardine
+2024-10-16 09:19:40,603 - WARNING - Fight URL not found for row index 1113.
+2024-10-16 09:19:40,604 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:40,604 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:41,041 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:41,041 - WARNING - No matching fight found for fighter Kendall Grove
+2024-10-16 09:19:41,042 - WARNING - Fight URL not found for row index 1115.
+2024-10-16 09:19:41,042 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:41,043 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:41,865 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:41,866 - WARNING - No matching fight found for fighter Josh Koscheck
+2024-10-16 09:19:41,866 - WARNING - Fight URL not found for row index 1129.
+2024-10-16 09:19:41,867 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:41,867 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:42,619 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:42,620 - WARNING - No matching fight found for fighter Mark Hominick
+2024-10-16 09:19:42,620 - WARNING - Fight URL not found for row index 1131.
+2024-10-16 09:19:42,621 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:42,621 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:43,322 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:43,323 - WARNING - No matching fight found for fighter Frank Mir
+2024-10-16 09:19:43,323 - WARNING - Fight URL not found for row index 1149.
+2024-10-16 09:19:43,324 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:43,324 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:44,022 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:44,022 - WARNING - No matching fight found for fighter Joshua Burkman
+2024-10-16 09:19:44,022 - WARNING - Fight URL not found for row index 1153.
+2024-10-16 09:19:44,024 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:44,024 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:44,749 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:44,749 - WARNING - No matching fight found for fighter Tim Sylvia
+2024-10-16 09:19:44,749 - WARNING - Fight URL not found for row index 1155.
+2024-10-16 09:19:44,751 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:44,751 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:45,405 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:45,406 - WARNING - No matching fight found for fighter Forrest Petz
+2024-10-16 09:19:45,406 - WARNING - Fight URL not found for row index 1159.
+2024-10-16 09:19:45,407 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:45,407 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:45,842 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:45,842 - WARNING - No matching fight found for fighter Dean Lister
+2024-10-16 09:19:45,842 - WARNING - Fight URL not found for row index 1169.
+2024-10-16 09:19:45,843 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:45,843 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:46,272 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:46,272 - WARNING - No matching fight found for fighter Diego Sanchez
+2024-10-16 09:19:46,272 - WARNING - Fight URL not found for row index 1173.
+2024-10-16 09:19:46,274 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:46,274 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:46,722 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:46,722 - WARNING - No matching fight found for fighter Yushin Okami
+2024-10-16 09:19:46,722 - WARNING - Fight URL not found for row index 1175.
+2024-10-16 09:19:46,723 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:46,724 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:47,162 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:47,162 - WARNING - No matching fight found for fighter Forrest Griffin
+2024-10-16 09:19:47,162 - WARNING - Fight URL not found for row index 1189.
+2024-10-16 09:19:47,163 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:47,163 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:47,591 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:47,592 - WARNING - No matching fight found for fighter Jorge Gurgel
+2024-10-16 09:19:47,592 - WARNING - Fight URL not found for row index 1195.
+2024-10-16 09:19:47,593 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:47,593 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:48,021 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:48,022 - WARNING - No matching fight found for fighter Roger Huerta
+2024-10-16 09:19:48,022 - WARNING - Fight URL not found for row index 1199.
+2024-10-16 09:19:48,023 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:48,023 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:48,458 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:48,459 - WARNING - No matching fight found for fighter Mike Swick
+2024-10-16 09:19:48,459 - WARNING - Fight URL not found for row index 1207.
+2024-10-16 09:19:48,460 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:48,460 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:48,931 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:48,932 - WARNING - No matching fight found for fighter Thiago Alves
+2024-10-16 09:19:48,932 - WARNING - Fight URL not found for row index 1213.
+2024-10-16 09:19:48,933 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:48,933 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:49,369 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:49,370 - WARNING - No matching fight found for fighter Rory Singer
+2024-10-16 09:19:49,370 - WARNING - Fight URL not found for row index 1215.
+2024-10-16 09:19:49,371 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:49,371 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:49,812 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:49,813 - WARNING - No matching fight found for fighter Matt Hamill
+2024-10-16 09:19:49,813 - WARNING - Fight URL not found for row index 1221.
+2024-10-16 09:19:49,814 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:49,814 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:50,249 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:50,249 - WARNING - No matching fight found for fighter Carmelo Marrero
+2024-10-16 09:19:50,249 - WARNING - Fight URL not found for row index 1237.
+2024-10-16 09:19:50,250 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:50,250 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:50,691 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:50,691 - WARNING - No matching fight found for fighter Jon Fitch
+2024-10-16 09:19:50,692 - WARNING - Fight URL not found for row index 1239.
+2024-10-16 09:19:50,693 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:50,693 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:51,126 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:51,127 - WARNING - No matching fight found for fighter Sean Sherk
+2024-10-16 09:19:51,127 - WARNING - Fight URL not found for row index 1241.
+2024-10-16 09:19:51,128 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:51,128 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:51,568 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:51,568 - WARNING - No matching fight found for fighter Martin Kampmann
+2024-10-16 09:19:51,568 - WARNING - Fight URL not found for row index 1245.
+2024-10-16 09:19:51,569 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:51,569 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:52,013 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:52,013 - WARNING - No matching fight found for fighter Matt Serra
+2024-10-16 09:19:52,013 - WARNING - Fight URL not found for row index 1259.
+2024-10-16 09:19:52,015 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:52,015 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:52,442 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:52,443 - WARNING - No matching fight found for fighter Jake O'Brien
+2024-10-16 09:19:52,443 - WARNING - Fight URL not found for row index 1261.
+2024-10-16 09:19:52,444 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:52,444 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:52,888 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:52,889 - WARNING - No matching fight found for fighter Tim Sylvia
+2024-10-16 09:19:52,889 - WARNING - Fight URL not found for row index 1275.
+2024-10-16 09:19:52,890 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:52,890 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:53,329 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:53,330 - WARNING - No matching fight found for fighter Logan Clark
+2024-10-16 09:19:53,330 - WARNING - Fight URL not found for row index 1279.
+2024-10-16 09:19:53,331 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:53,331 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:53,770 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:53,771 - WARNING - No matching fight found for fighter Brock Larson
+2024-10-16 09:19:53,771 - WARNING - Fight URL not found for row index 1281.
+2024-10-16 09:19:53,772 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:53,772 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:54,208 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:54,208 - WARNING - No matching fight found for fighter David Heath
+2024-10-16 09:19:54,208 - WARNING - Fight URL not found for row index 1287.
+2024-10-16 09:19:54,209 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:54,209 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:54,638 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:54,639 - WARNING - No matching fight found for fighter Marcus Davis
+2024-10-16 09:19:54,639 - WARNING - Fight URL not found for row index 1289.
+2024-10-16 09:19:54,640 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:54,640 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:55,098 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:55,099 - WARNING - No matching fight found for fighter Karo Parisyan
+2024-10-16 09:19:55,099 - WARNING - Fight URL not found for row index 1291.
+2024-10-16 09:19:55,100 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:55,100 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:55,537 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:55,537 - WARNING - No matching fight found for fighter Josh Koscheck
+2024-10-16 09:19:55,537 - WARNING - Fight URL not found for row index 1293.
+2024-10-16 09:19:55,538 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:55,538 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2006/
+2024-10-16 09:19:56,006 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:56,007 - WARNING - No matching fight found for fighter Christian Wellisch
+2024-10-16 09:19:56,007 - WARNING - Fight URL not found for row index 1297.
+2024-10-16 09:19:56,008 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:56,008 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:56,449 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:56,450 - WARNING - No matching fight found for fighter Din Thomas
+2024-10-16 09:19:56,450 - WARNING - Fight URL not found for row index 1317.
+2024-10-16 09:19:56,451 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:56,451 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:56,883 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:56,884 - WARNING - No matching fight found for fighter Joshua Burkman
+2024-10-16 09:19:56,884 - WARNING - Fight URL not found for row index 1321.
+2024-10-16 09:19:56,885 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:56,885 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:57,319 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:57,320 - WARNING - No matching fight found for fighter Nate Marquardt
+2024-10-16 09:19:57,320 - WARNING - Fight URL not found for row index 1323.
+2024-10-16 09:19:57,321 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:57,321 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:57,760 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:57,761 - WARNING - No matching fight found for fighter Jake O'Brien
+2024-10-16 09:19:57,761 - WARNING - Fight URL not found for row index 1327.
+2024-10-16 09:19:57,762 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:57,762 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:58,202 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:58,203 - WARNING - No matching fight found for fighter Dustin Hazelett
+2024-10-16 09:19:58,203 - WARNING - Fight URL not found for row index 1331.
+2024-10-16 09:19:58,204 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:58,204 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:58,632 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:58,632 - WARNING - No matching fight found for fighter Lyoto Machida
+2024-10-16 09:19:58,632 - WARNING - Fight URL not found for row index 1333.
+2024-10-16 09:19:58,633 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:58,633 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:59,059 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:59,060 - WARNING - No matching fight found for fighter Frankie Edgar
+2024-10-16 09:19:59,060 - WARNING - Fight URL not found for row index 1335.
+2024-10-16 09:19:59,061 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:59,061 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:59,489 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:59,489 - WARNING - No matching fight found for fighter Patrick Cote
+2024-10-16 09:19:59,490 - WARNING - Fight URL not found for row index 1339.
+2024-10-16 09:19:59,491 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:59,491 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:59,947 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:19:59,947 - WARNING - No matching fight found for fighter Gleison Tibau
+2024-10-16 09:19:59,947 - WARNING - Fight URL not found for row index 1351.
+2024-10-16 09:19:59,949 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:19:59,949 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:00,393 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:20:00,394 - WARNING - No matching fight found for fighter Matt Hughes
+2024-10-16 09:20:00,394 - WARNING - Fight URL not found for row index 1359.
+2024-10-16 09:20:00,395 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:00,395 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:00,844 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:20:00,844 - WARNING - No matching fight found for fighter Randy Couture
+2024-10-16 09:20:00,844 - WARNING - Fight URL not found for row index 1365.
+2024-10-16 09:20:00,845 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:00,845 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:01,269 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:20:01,270 - WARNING - No matching fight found for fighter Thiago Tavares
+2024-10-16 09:20:01,270 - WARNING - Fight URL not found for row index 1367.
+2024-10-16 09:20:01,271 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:01,271 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:01,705 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:20:01,706 - WARNING - No matching fight found for fighter Roan Carneiro
+2024-10-16 09:20:01,706 - WARNING - Fight URL not found for row index 1369.
+2024-10-16 09:20:01,707 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:01,707 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:02,139 - INFO - Found 29 fight cells on the event page.
+2024-10-16 09:20:02,140 - WARNING - No matching fight found for fighter Kuniyoshi Hironaka
+2024-10-16 09:20:02,140 - WARNING - Fight URL not found for row index 1371.
+2024-10-16 09:20:02,141 - INFO - Constructed event page URL: https://mmadecisions.com//decisions-by-event/2007/
+2024-10-16 09:20:02,141 - INFO - Requesting event URL to find fight: https://mmadecisions.com//decisions-by-event/2007/
